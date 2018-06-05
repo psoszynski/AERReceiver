@@ -1,0 +1,11 @@
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\bin\Debug\netcoreapp2.1\AERReceiver.deps.json
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\bin\Debug\netcoreapp2.1\AERReceiver.runtimeconfig.json
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\bin\Debug\netcoreapp2.1\AERReceiver.runtimeconfig.dev.json
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\bin\Debug\netcoreapp2.1\AERReceiver.dll
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\obj\Debug\netcoreapp2.1\AERReceiver.csproj.CoreCompileInputs.cache
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\obj\Debug\netcoreapp2.1\AERReceiver.AssemblyInfoInputs.cache
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\obj\Debug\netcoreapp2.1\AERReceiver.AssemblyInfo.cs
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\bin\Debug\netcoreapp2.1\AERReceiver.pdb
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\obj\Debug\netcoreapp2.1\AERReceiver.csprojAssemblyReference.cache
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\obj\Debug\netcoreapp2.1\AERReceiver.dll
+c:\users\psoszynski\source\repos\AERReceiver\AERReceiver\obj\Debug\netcoreapp2.1\AERReceiver.pdb
